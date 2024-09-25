@@ -1,5 +1,5 @@
 # A 4 Factor Model for UK asset returns
-
+### Group project
 One of the main objectives of finance is to understand the sources of risk that cause different securities to offer different expected returns. 
 While the shortcomings of the CAPM model are becoming increasingly evident, it is important to emphasize that market performance is not the only source of risk that influences the expected returns of securities. Factors such as company size, market value, momentum, and liquidity are recognized by experts as additional risk elements. 
 

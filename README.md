@@ -5,4 +5,6 @@ While the shortcomings of the CAPM model are becoming increasingly evident, it i
 
 In this paper, we will implement a four-factor model based on the research of E. Fama, K. French, and M. Carhart.
 
-https://drive.google.com/file/d/1tvO9mBn6nN2Y7mHJpS5Wh1PbdfwLEp7V/view?usp=sharing
+Presentation: https://drive.google.com/file/d/1tvO9mBn6nN2Y7mHJpS5Wh1PbdfwLEp7V/view?usp=sharing
+
+Paper: https://drive.google.com/file/d/11bBZEpNh-VHnORyQ4fb9JjuTkRwUHoyI/view?usp=sharing 
